@@ -8,3 +8,14 @@
   margin-right: 5px;
   margin-left: -5px;
 }
+
+img#license-logo {
+  width: 14px;
+  height: 14px;
+  margin-right: 9px;
+  display: inline-block;
+}
+
+a#license-text {
+  text-decoration: none;
+}
