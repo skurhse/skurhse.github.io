@@ -26,7 +26,15 @@ paginate     = 10
   description = "My new homepage or blog"
   keywords = "homepage, blog"
   images = [""]
+  
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/skurhse"
 
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/skurhse/"
+  
 [taxonomies]
     category = "blog"
     tag      = "tags"
