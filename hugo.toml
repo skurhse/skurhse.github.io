@@ -43,7 +43,7 @@ paginate     = 10
     subtitle  = "A simple theme for Hugo"
 
     [languages.en.params.logo]
-      logoText = "hello friend ng"
+      logoText = "skurhse.dev"
       logoHomeLink = "/"
     # or
     #
